@@ -13,3 +13,6 @@ Thumbs.db
 
 # Assets (large binaries tracked separately)
 *.pdf
+
+# Local binaries
+bin/

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nebrecime.cz/sitemap.xml
+Sitemap: https://nebrecime.hanusvalenta.com/sitemap.xml

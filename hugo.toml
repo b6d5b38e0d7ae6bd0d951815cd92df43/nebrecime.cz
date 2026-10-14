@@ -1,7 +1,10 @@
-baseURL = "https://nebrecime.cz/"
+baseURL = "https://nebrecime.hanusvalenta.com/"
 languageCode = "cs"
 title = "Maturita Formalita"
 uglyURLs = true
+
+[security]
+  allowContent = ['.*']
 
 [markup]
   [markup.goldmark]
